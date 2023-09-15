@@ -1,6 +1,6 @@
 # Project INDIGO
 
-Anonymized technical preview:
+Anonymized technical preview: [Streamlit](https://pcp-demo.streamlit.app/)
 
 Source code available on [GitHub](https://github.com/AnonCod3/pcp-demo)
 
