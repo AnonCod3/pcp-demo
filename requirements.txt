@@ -1,3 +1,4 @@
+setuptools==69.5.1
 requests==2.27.1
 numpy==1.22.3
 scipy==1.10.1
